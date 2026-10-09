@@ -98,6 +98,6 @@ The claims endpoint supports these query parameters:
 
 ## Shortcuts taken
 
-Given the time available, I looked up how to generate seed data and used that approach to populate the database with sample claims. I also reused some boilerplate from my previous projects, mainly the PostgreSQL configuration and a few code patterns, adapting them to this project.
+Given the time available, I looked up how to generate seed data and used that approach to populate the database with sample claims. I also reused some boilerplate from my previous projects, mainly the PostgreSQL configuration and a few code patterns, adapting them to this project. I also used AI to help structure and refine the README for clarity and documentation.
 
 The implementation focuses on the backend APIs and their filtering, aggregation, and pagination logic. The React dashboard was not implemented, so the frontend portion of the original requirements remains incomplete.
